@@ -111,7 +111,7 @@ nexus-security/
 ### Install & Run
 
 ```bash
-git clone https://github.com/yourusername/nexus-security.git
+git clone https://github.com/Kodjocares/nexus-security.git
 cd nexus-security
 npm install
 cp .env.example .env        # Add your VITE_ANTHROPIC_API_KEY
