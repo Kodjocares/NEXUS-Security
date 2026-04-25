@@ -1,0 +1,16 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; overflow-x: hidden; }
+body { font-family: 'JetBrains Mono', 'Fira Code', monospace; background: #04080f; color: #c8d8f0; }
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: #04080f; }
+::-webkit-scrollbar-thumb { background: #1a2540; border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: #00d4ff44; }
+input, textarea, select, button { font-family: inherit; }
+input:focus, textarea:focus, select:focus { outline: none; border-color: #00d4ff !important; }
+a { color: #00d4ff; text-decoration: none; }
+a:hover { text-decoration: underline; }
+@keyframes pulse { 0%,100% { opacity:1 } 50% { opacity:0 } }
+@keyframes blink { 0%,100% { opacity:1 } 49% { opacity:1 } 50% { opacity:0 } 99% { opacity:0 } }
+@keyframes fadeIn { from { opacity:0; transform:translateY(8px) } to { opacity:1; transform:translateY(0) } }
+@keyframes glow { 0%,100% { box-shadow: 0 0 8px #00d4ff44 } 50% { box-shadow: 0 0 20px #00d4ff88 } }
+@keyframes scanline { 0% { transform: translateY(-100%) } 100% { transform: translateY(100vh) } }
