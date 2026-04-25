@@ -18,7 +18,7 @@ NEXUS is a full-stack AI-powered cybersecurity research platform built for PhD-l
 
 **Research Context:**
 > *"AI-Driven Cyber Risk Assessment for SMEs in Emerging Digital Markets"*  
-> Proposed doctoral research — UniOulu ITEE | Researcher: Jah Kodjo (Village Man)
+> Proposed doctoral research — UniOulu ITEE | Researcher:(Village Man)
 
 ---
 
