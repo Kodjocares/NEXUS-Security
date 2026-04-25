@@ -220,7 +220,7 @@ If you use NEXUS in your research, please cite:
 
 ```bibtex
 @software{nexus_security_2025,
-  author    = {Kodjo, Jah},
+  author    = {villageman},
   title     = {NEXUS Security Research Platform: AI-Driven Cyber Risk Assessment for SMEs},
   year      = {2025},
   publisher = {GitHub},
@@ -238,12 +238,7 @@ MIT License — free to use, modify, and distribute for research and educational
 
 ## Author
 
-**Village Man (Jah Kodjo)**  
-MSc Business Analytics — University of Oulu  
-MSc Data Expertise & AI — In Progress  
-PhD Applicant — UniOulu ITEE Faculty  
-
-Helsinki, Finland · West Africa Operations: Cotonou & Banjul
+**Village**  
 
 ---
 
